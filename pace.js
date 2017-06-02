@@ -12,3 +12,4 @@ $(document).on('ready', function() {
      progressBar.attr('value', value);
   });
 });
+
