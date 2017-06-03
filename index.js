@@ -4,7 +4,7 @@ $(document).on('ready', function() {
       progressBar = $('progress'),
       max, value;
 
-  max = docHeight + winHeight*0.8;
+  max = docHeight + winHeight;
   progressBar.attr('max', max);
 
   $(document).on('scroll', function(){
