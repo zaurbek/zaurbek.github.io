@@ -2,6 +2,6 @@
 
 
 
-### Work both on [zooll.me](http://zooll.me) and [zzhakupov.github.io](http://zzhakupov.github.io)
+### [pandashadopan.github.io](http://pandashadopan.github.io)
 
-### If you faced any problems, 📧 email me at `zoollhub@gmail.com`
+### If you faced any problems, 📧 email me at `zooLLhub@gmail.com`
