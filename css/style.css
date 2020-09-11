@@ -41,9 +41,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #3366CC;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
+    background: linear-gradient(90deg, #161122 21px, transparent 1%) center, linear-gradient(#161122 21px, transparent 1%) center, #a799cc;
+    background-size: 22px 22px;
 }
 
 .cards {
